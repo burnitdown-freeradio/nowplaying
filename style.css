@@ -10,7 +10,7 @@ body {
     font-family: "Source Sans Pro", sans-serif;
     font-size: 13px; }
     body .nowplayingcard .nowplayingcontainer-inner {
-      width: 100%;
+      width: 640px;
       box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
       transition: 0.3s;
       display: inline-block;
