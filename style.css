@@ -41,7 +41,7 @@ body {
         -o-border-bottom-left-radius: 3px;
         border-bottom-left-radius: 3px; }
       body .nowplayingcard .nowplayingcontainer-inner .trackInfo {
-        width: 50%;
+        width: 25%;
         float: left;
         display: block; }
         body .nowplayingcard .nowplayingcontainer-inner .trackInfo a {
@@ -68,7 +68,7 @@ body {
               margin: -2% 3px 0 0; }
           body .nowplayingcard .nowplayingcontainer-inner .trackInfo a:nth-child(even) {
             color: gray;
-            font-size: 18px;
+            font-size: 12px;
             letter-spacing: 0.1px;
             padding: 5% 0 0 5%; }
             body .nowplayingcard .nowplayingcontainer-inner .trackInfo a:nth-child(even) img {
