@@ -3,7 +3,7 @@ body {
   padding: 0;
   margin: 0; }
   body .nowplayingcard {
-    min-width: 350px;
+    min-width: 250px;
     max-width: 100%;
     margin: 0 auto;
     margin-top: 5%;
