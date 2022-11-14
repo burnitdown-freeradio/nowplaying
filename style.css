@@ -7,7 +7,7 @@ body .nowplayingcard {
   min-width: 300px;
   max-width: 20%;
   margin: 0 auto;
-  margin-top: 5%;
+  margin-top: 2%;
   font-family: "Source Sans Pro", sans-serif;
   font-size: 13px;
 }
@@ -31,7 +31,7 @@ body .nowplayingcard .nowplayingcontainer-inner:hover {
   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
 }
 body .nowplayingcard .nowplayingcontainer-inner img#trackart {
-  max-width: 30%;
+  max-width: 40%;
   float: left;
   left: 0;
   -webkit-border-top-left-radius: 3px;
@@ -46,7 +46,7 @@ body .nowplayingcard .nowplayingcontainer-inner img#trackart {
   border-bottom-left-radius: 3px;
 }
 body .nowplayingcard .nowplayingcontainer-inner .trackInfo {
-  width: 70%;
+  width: 60%;
   float: left;
   display: block;
 }
