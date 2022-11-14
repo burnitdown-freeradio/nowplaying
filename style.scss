@@ -42,15 +42,15 @@ body {
       }
 
       img#trackart {
-        max-width: 20%;
+        max-width: 25%;
         float: left;
         left: 0;
         @include border-left-radius($globalBorderRadius);
       }
 
       .trackInfo {
-        width: 70%;
-        float: left;
+        width: 75%;
+        float: right;
         display: block;
 
         a {
