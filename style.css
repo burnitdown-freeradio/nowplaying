@@ -45,7 +45,7 @@ body {
         float: left;
         display: block; }
         body .nowplayingcard .nowplayingcontainer-inner .trackInfo a {
-          max-width: 90%;
+          max-width: 50%;
           display: block;
           font-size: 18px;
           text-align: left;
